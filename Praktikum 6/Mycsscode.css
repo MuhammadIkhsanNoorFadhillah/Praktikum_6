@@ -1,0 +1,29 @@
+#header{
+    background-color: blue;
+    text-align: center;
+}
+#soekarno{
+    background-color: blueviolet;
+    font-style: italic;
+}
+.gambar{
+    margin-left: 28%;
+    border-radius: 5cm;
+}
+.isi{
+    text-align: justify;
+    
+}
+.letterB {
+    font-size: 40px;
+    color: orangered;
+}
+
+#hastag {
+    text-align: center;
+    margin-left: 25%;
+}
+.koleksi{
+    margin-left: 5%;
+}
+
